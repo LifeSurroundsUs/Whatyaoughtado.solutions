@@ -1,6 +1,8 @@
-"# whatyaoughtado.solutions
+# whatyaoughtado.solutions
+
 The URL of the website I would like help with.
-I am a beginning blog writer looking for input in my blog.
+
+Being a beginning blog writer looking for input in my blog.
 Included in this branch is the page/post I would like edited with input/feedback for the blog.
 
 # A Users Review of Dragon Professional Individual 15: A Personal Perspective
