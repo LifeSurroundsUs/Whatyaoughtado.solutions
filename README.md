@@ -3,31 +3,36 @@
 The URL of the website I would like help with.
 
 Being a beginning blog writer looking for input in my blog.
+
 Included in this branch is the page/post I would like edited with input/feedback for the blog.
 
 # A Users Review of Dragon Professional Individual 15: A Personal Perspective
 
->	**Speech recognition is the ability of a machine or program to identify words  and phrases in spoken language and convert to a machine-readable format… More, a sophisticated software I think [that] has the ability to accept natural language and interact Dragon modeling.**<sup>[1]</sup>
+> **Speech recognition is the ability of a machine or program to identify words 
+and phrases in spoken language and convert to a machine-readable format...
+More, a sophisticated software [that] has the ability to accept natural language modeling.**
 
 ### These are my experiences using Dragon Professional Individual 15, and being that is my review, it might be different than other reviews.
 
-As a full-time user of [Dragon Professional Individual 15](https://shop.nuance.com/store/nuanceus/Custom/pbpage.dragonProINDV/?utm_medium=ps&utm_source=google&utm_campaign=dragon&utm_term=dragon%20professional&cvokeywordid=33|304216&cvosrc=ps.Google.dragon%20professional&gclid=CjwKCAjwmqHPBRBQEiwAOvbR822IvhdEQqSCeZJTJ9_XjupELKp0A75m8KGojMsrZ3qq2hpJ9pFD2RoC2JEQAvD_BwE) (DPI 15), this is my review. If it Were  not for this speech recognition software I would not be able to use the computer due to the unmanageableness of using the keyboard and mouse .
+As a full-time user of [Dragon Professional Individual 15](https://shop.nuance.com/store/nuanceus/Custom/pbpage.dragonProINDV/?utm_medium=ps&utm_source=google&utm_campaign=dragon&utm_term=dragon%20professional&cvokeywordid=33|304216&cvosrc=ps.Google.dragon%20professional&gclid=CjwKCAjwmqHPBRBQEiwAOvbR822IvhdEQqSCeZJTJ9_XjupELKp0A75m8KGojMsrZ3qq2hpJ9pFD2RoC2JEQAvD_BwE) (DPI 15), this is my review. If it were  not for this speech recognition software I would not be able to use the computer, due to the unmanageableness of using the keyboard and mouse .
 
-You see, as a man with a physal disability. I use a wheelchair and have severely limited use of my arms and hands. I feel that I am more than qualified to share with you what I have learned of DPI 15.
+You see, as a man with a physal [disability][Friedreich's Ataxia, A Neurological Progressive Disorder which causes me to my speech]. I use a wheelchair and have severely limited use of my arms and hands. I feel that I am more than qualified to share with you what I have learned of [DPI 15
+(]https://shop.nuance.com/store/nuanceus/Custom/pbpage.dragonProINDV/?utm_medium=ps&utm_source=google&utm_campaign=dragon&utm_term=dragon%20professional&cvokeywordid=33|304216&cvosrc=ps.Google.dragon%20professional&gclid=CjwKCAjwmqHPBRBQEiwAOvbR822IvhdEQqSCeZJTJ9_XjupELKp0A75m8KGojMsrZ3qq2hpJ9pFD2RoC2JEQAvD_BwE).
 
-If it were not for Dragon in all its many incarnations, from its first inception of the original Dragon Dictate, in 1992, through to it's current version of DPI 15, released in 2016, now owned and operated by [Nuance](http://www.nuanice.com) Maintaining and improving upon speech recognition.
+If it were not for Dragon in all its many incarnations, from its first inception of the original Dragon Dictate, in 1992, through to it's current version of DPI 15, released in 2016, now owned and operated by [Nuance](http://www.nuanice. com), menitaining and improving speech recognition. It's one of their on him and him and him him
 
-Although Dragon Dictate, the speech recognition software, was designed primarily for dictation. It can also be used to effectively control the computer, in regards to user interface functions such as buttons, menus and dialog boxes. This virtually gives the user hands-free use of the computer. Thus, it gained much acceptance amongst the  disabled population, 
+Although Dragon Dictate, the speech recognition software, was designed primarily for dictation. It can also be used to effectively control the computer, in regards to user interface operational for use with buttons, menus and dialog boxes. <span style="font-size: 14pt;">**This virtually gives the user hands-free use of the computer. Thus, it gained much acceptance amongst the  disabled population,**</span>
 
-In college I purchased my first computer, and I kept thinking that there ought to be a better way to handle the inputting and manipulating the data. At the time , nothing prognosticating on the market. In 1994, I began reading about a new company, Dragon Systems, Inc., that offered a new ground breaking software that enabled the user to virtually control the computer, and dictate with just your voice.. Thus, introducing, into the market.**"Speech Recognition"**.
+In college I purchased my first computer, and I kept thinking that there ought to be a better way to handle the inputting and manipulating the data, other than the mouse. At the time, there was nothing prognosticating on the market. In 1994, I began reading about a new company, Dragon Systems, Inc., that offered a new ground breaking software that enabled the user to virtually control the computer, and dictate with just your voice.. Thus, introducing, into the market **"Speech Recognition"**.
 
-Well I was all over that and I arranged for a I hands-on demonstration with the retailer to try it out in all its details. It did not take all that much to convince me. I purchased it,  along with the software, a computer. My first computer I could talk to and it would do  what I needed.
+Well, I was all over that and I arranged for a I hands-on demonstration with the retailer, of Dragon, to try it out in all its details. It did not take all that much to convince me. I purchased [Dragon](https://shop.nuance.com/store/nuanceus/Custom/pbpage.dragonProINDV/?utm_medium=ps&utm_source=google&utm_campaign=dragon&utm_term=dragon%20professional&cvokeywordid=33|304216&cvosrc=ps.Google.dragon%20professional&gclid=CjwKCAjwmqHPBRBQEiwAOvbR822IvhdEQqSCeZJTJ9_XjupELKp0A75m8KGojMsrZ3qq2hpJ9pFD2RoC2JEQAvD_BwE).
+,  along with the software, and a computer set up for Dragon Dictate. My first computer I could talk to and it would do  what I needed.
 
 ---
 
 ### Features of Dragon Professional Individual 15
 
-These are the features I thought to be most relevant and useful to you the end user out this speech recognition software.. 
+These are the features I thought to be most relevant and useful to you, the end user, of this speech recognition software.. 
 
 + Superior Control Of The Computer Using Just Your Voice
 
@@ -37,7 +42,7 @@ These are the features I thought to be most relevant and useful to you the end u
 
 + Dragon Anywherewith Syncing To Your Mobile Devices
 
-+ Powerful Transcribtion,OfAll YourRecordings From Audio Files
++ Powerful Transcribtion,Of All Your Dictated  Recordings From Audio Files
 
 + Better Performance And Efficiency
 
@@ -45,26 +50,64 @@ These are the features I thought to be most relevant and useful to you the end u
 
 ### Superior Control Of The Computer Using Just Your Voice
 
-One the foremost advantages of Dragon is the superior control of the computer w with just your voice, called by Nuance, **Full Text Control** (full text driven editing and command capabilities) within most popular applications you my use every day enabling you to create documents and zip through computer tasks in record time. It also allows you to make edits apply formatting using your voice. You can select text and apply formatting such as bold, underline, capitals and more, by just speaking to make needed changes. And with the **Smart Format Rules** automatically adapt to how you want abbreviations, dates, phone numbers, and more to appear
+One of the foremost advantages of Dragon is the superior control of the computer with just your voice, called by Nuance, <span style="font-size: 13pt;">"**Full Text Control**</span> (full text driven editing and command capabilities)" with most of your favorite applications that you use every day letting you to create documents and cannonball along through your computer tasks in no time at all. It also allows you to make edits and apply formatting such as bold, underline, capitals and more, by 1tMi speaking to make needed changes. And with the <span style="font-size: 14pt;">**Smart Format Rules**</span> your text is automatically adapted to how you want abbreviations, dates, phone numbers, and more to appear.
 
 ### The Introduction Of The "Deep Learning" Technology
 
-One of the important new features is the introduction of the "Deep Learning" technology, a neural network, that adapts to how you pronunciate words as you are dictating. . It wilI adapt to an environment where there are slight background noises. In addition, if you have an accent or if your speech is not of the "normal" varity it will still adjust and adapt to your dictating style.
+One of the important new features is the introduction of the "Deep Learning" technology, a neural network, that the <span style="font-size: pt;">**adapts to how you pronunciate words as you are dictating**</span>. It supposedly adapts to an environment where there are slight background noises. It does and does not, but it could be my microphone. (I will talk about Microphones further in the review).  In addition, if you have an accent or if your speech is not of the "normal" varity, like myself, <span style="font-size: 13pt;">it will still adjust and adapt to your dictating style</span>.
 
 ### Dictation Up To 3 Times Faster With 99% Accuracy
 
-You will find Dragon dictates up to 3 times faster than typing with almost 99% accuracy. And **if** on occasion you find a mistake it will allow you to edit and apply formatting, such as capitalization, bold, italics, or other needed changesis using your voice. The  Smart Format Rules will automatically adjust to how you want abbreviations, phone numbers,  dates, and more to are you want them to appear in your document, so  you don't have to.
+You will find Dragon dictates up to 3 times faster than typing with almost 99% accuracy. And **if** on occasion you find a mistake it will allow you to edit and apply formatting, such as capitalization, bold, italics, or other needed changesis using just your voice. The <span style="font-size: 13pt;">Smart Format Rules</span> will automatically adjust to how you want abbreviations, phone numbers,  dates, and more to are you want them to appear in your document, so  you don't have to.
 
-### Dragon Anywhere WithSyncing To Your Mobile Devices
+### Dragon Anywhere,  With Syncing To Your Mobile Devices
 
-A new feature is <span style="font-size: 1dpt;">**Dragon Anywhere**</span>, a cloud-based mobile solution that syncs my with your tablet, smart phone, or other mobile device. Giviing the user the same Superior Control and continuous dictation capabiities as your desktop or laptop, using your voice directly on your iOS
+A new feature is <span style="font-size: 14pt;">**Dragon A I know nywhere**</span>, a cloud-based mobile solution that syncs my with your tablet, smart phone, or other mobile device. Giviing the user the same Superior Control and continuous dictation capabiities as your desktop or laptop, using your voice directly on your iOS
 
 ### Better Performance And Efficiency
 
-A fast, accurate dictation and transcription solution with powerful customization options can help you complete document creation tasks more efficiently using your voice so you on can work faster and smarter.
+Dragon Professional Individual 15 is faster and more accurate. You can work faster with your computer, complete your tasks and documents were  more efficiently.  , You will find your dictation improving in style as well as quality. With the powerful customization options you will find yourself wondering 'How you ever got your work done before.' And if you're amongst the disabled population, you will find yourself asking, 'How did I ever use the computer without [Dragon Professional Individual 15](https://shop.nuance.com/store/nuanceus/Custom/pbpage.dragonProINDV/?utm_medium=ps&utm_source=google&utm_campaign=dragon&utm_term=dragon%20professional&cvokeywordid=33|304216&cvosrc=ps.Google.dragon%20professional&gclid=CjwKCAjwmqHPBRBQEiwAOvbR822IvhdEQqSCeZJTJ9_XjupELKp0A75m8KGojMsrZ3qq2hpJ9pFD2RoC2JEQAvD_BwE)
 
-There are so many other features that I did not include in this review.
+
+There are many other features I did not include in this review. If you would like to read more, you can find them on the web.
 
 ***
 
-2]**Friedreich's Ataxia**, A Neurological Progressive Disorder which causes me to use a wheelchair, limits my body movements and effects my speech. 
+There is a learning curve b Some would say it to be quite simple and get it right out. While others might say the curve to be too difficult, trying to remember all the commands. But there is quite an extensive help system within Dragon itself, and if you need further help, on the Internet. Here are just a few:
+
++ www.pcspeak.com/hints/
++ https://nuance.custhelp.com/app/answers/list/p/17/kw/%20spaces 
++ www.pcspeak.com/hints/
++ https://www.ssa.gov/accessibility/trainingDragon.html
++ http://www.dummies.com/software/dragon-naturallyspeaking/how-to-use-the-
+nuance-knowledgebase-for-help-with-naturallyspeaking/
++ https://en.wikipedia.org/wiki/Dragon_NaturallySpeaking#Features  – Interesting article about the history of Dragon NaturallySpeaking.
+
+
+### Speech recognition microphones
+
+There is a need to talk about microphones. After all, we are speaking to a computer and we need an analog-to-digital coveretor that will translate the analog sound 
+waves of your voice into digital data, which then goes through several complex stages, to show up on your computer display as text.
+
+If you would like to read further about how to speech recognition works [click here](https://electronics.howstuffworks.com/gadgets/high-tech-gadgets/speech-recognition1.htm)translates  
+
+There are many different types of microphones.
+
+	+ Headset, Wired and Wireless 
+	+ Handheld 
+	+ Speciality
+	+ Desktop 
+                                                                                                                                                                                                                                                                                                                                                                                        
+Headset microphones are probably the most common and most  popular. <span style="font-size: 14pt;">They are the most accurate</span> and have the best noise cancellation available. I have had several over the years and found them to .be.excellent, but found them difficult to put into postion,  and my hands constantly would get caught in the wires and pull the headset out of postion or rip the wires out of their sockets. Needless to say, they were not for me.
+
+The Handheld microphones, are attached with a cord, unless it's wireless, and held by the hand to postion the microphone into the optimal placement. The microphones are rated to be amongst the top in accuracy. Even Nuance has it's own brand.
+
+The Specialty microphones are used primarily if you are moving the computer from place to place, like in traveling or putting your computer into a carrying pack. You might use one for a laptop, or for a tablet or a mobile device.  They are small, adaptable and easy to mount and disassemble for transport. 
+
+The Desktop or more commonly called the Tabletop microphones sit on your desktop or table and are stationary. This is the type of microphone I use, a Vec GN-USB. comparable use the SoundTech GN-USB-2.  Both out these of.microphones are hypothetically rated to be noise canceling, but don't count on it. The microphone hears all the groans, snorts and coughs, but the response is more than adequate for speech recognition.  Because of my constant movement, closer and further away from the microphone, the far-reaching
+
+[Click here](http://www.knowbrainer.com/core/pages/miccompare.cfm) to see a comparison chart of a good majority of the speech recognition microphones.
+
+– – –
+
+  
