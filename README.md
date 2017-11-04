@@ -1,3 +1,4 @@
+114b17 
 # whatyaoughtado.solutions
 
 The URL of the website I would like help with.
@@ -7,8 +8,10 @@ In this branch is the page I would like help with.
 
 I am still working on the page, and I just edited it., do you find the reading to be stiff and hard to get through?
 
-It is not finished, as I have yet to write the conclusion.
----
+It is not finished, as I have yet to write 
+
+
+***
 
 
 # A Users Review of Dragon Professional Individual 15: A Personal Perspective
@@ -20,11 +23,10 @@ It is not finished, as I have yet to write the conclusion.
 ### These are my experiences using Dragon Professional Individual 15, and being that is my review, it might be different than other reviews.
 
 
-As a full-time user of [Dragon Professional Individual 15](https://shop.nuance.com/store/nuanceus/Custom/pbpage.dragonProINDV/?utm_medium=ps&utm_source=google&utm_campaign=dragon&utm_term=dragon%20professional&cvokeywordid=33|304216&cvosrc=ps.Google.dragon%20professional&gclid=CjwKCAjwmqHPBRBQEiwAOvbR822IvhdEQqSCeZJTJ9 XjupELKp0A75m8KGojMsrZ3qq2hpJ9pFD2RoC2JEQAvD_BwE) (DPI 15), this is my review. If it were  not for this speech recognition software I would not be able to use the computer, due to the unmanageableness of using the keyboard and mouse .
+As a full-time user of [Dragon Professional Individual 15] okay (https://shop.nuance.com/store/nuanceus/Custom/pbpage.dragonProINDV/?utm_medium=ps&utm_source=google&utm_campaign=dragon&utm_term=dragon%20professional&cvokeywordid=33|304216&cvosrc=ps.Google.dragon%20professional&gclid=CjwKCAjwmqHPBRBQEiwAOvbR822IvhdEQqSCeZJTJ9 XjupELKp0A75m8KGojMsrZ3qq2hpJ9pFD2RoC2JEQAvD_BwE) (DPI 15), this is my review. If it were  not for this speech recognition software I would not be able to use the computer, due to the unmanageableness of using the keyboard and mouse .
 
 
-You see, as a man with a physal [disability][Friedreich's Ataxia, A Neurological progressive  isorder which causes me to my speech]. I use a wheelchair and have severely limited use of my arms and hands. I feel that I am more than qualified to share with you what I have learned of [DPI 15]
-(https://shop.nuance.com/store/nuanceus/Custom/pbpage.dragonProINDV/?utm_medium=ps&utm_source=google&utm_campaign=dragon&utm_term=dragon%20professional&cvokeywordid=33|304216&cvosrc=ps.Google.dragon%20professional&gclid=CjwKCAjwmqHPBRBQEiwAOvbR822IvhdEQqSCeZJTJ9_XjupELKp0A75m8KGojMsrZ3qq2hpJ9pFD2RoC2JEQAvD_BwE).
+You see, as a man with a physal [disability][Friedreich's Ataxia, A Neurological progressive  isorder which causes me to my speech]. I use a wheelchair and have severely limited use of my arms and hands. I feel that I am more than qualified to share with you what I have learned of [DPI 15](https://shop.nuance.com/store/nuanceus/Custom/pbpage.dragonProINDV/?utm_medium=ps&utm_source=google&utm_campaign=dragon&utm_term=dragon%20professional&cvokeywordid=33|304216&cvosrc=ps.Google.dragon%20professional&gclid=CjwKCAjwmqHPBRBQEiwAOvbR822IvhdEQqSCeZJTJ9_XjupELKp0A75m8KGojMsrZ3qq2hpJ9pFD2RoC2JEQAvD_BwE).
 
 
 If it were not for Dragon in all its many incarnations, from its first inception of the original Dragon Dictate, in 1992, through to it's current version of DPI 15, released in 2016, now owned and operated by [Nuance](http://www.nuanice.com), menitaining and improving speech recognition. It's one of their beast sellers.
@@ -138,5 +140,5 @@ The Desktop or more commonly called the Tabletop microphones sit on your desktop
 
 To see a comparison chart of a good majority of the speech recognition microphones. [Read more here.](http://www.knowbrainer.com/core/pages/miccompare.cfm)
 
-***
+***"
 
